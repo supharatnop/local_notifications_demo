@@ -6,5 +6,6 @@ package
 
 ## Getting Started
 
--flutter pub get \n
+-flutter pub get
+
 -flutter run
